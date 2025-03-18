@@ -7,7 +7,7 @@
 - 📫 How to reach me: in x , "iimohacs"
 - ⚡ Fun fact: Your phone has more processing power than early computers ! .
 - about me
-- :I’m Mohamed Abdullah Bamhrez, a passionate Computer Science student at Hadhramout University, Faculty of Computers and Information Technology. My main focus is on mobile app development, where I strive to create innovative and user-friendly applications. Alongside mobile development, I have solid experience in SDLC, Cybersecurity, and AWS, which helps me build secure and efficient apps.
+- :I’m Mohamed Abdullah Bamhrez, a passionate Computer Science student at Hadhramout University. My main focus is on mobile app development, where I strive to create innovative and user-friendly applications. Alongside mobile development, I have solid experience in SDLC, Cybersecurity, and AWS, which helps me build secure and efficient apps.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed bamhraz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iimohacs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Techduo2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedbamhraz@gmail.com) 
